@@ -2,7 +2,7 @@ title: Texture Theme
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  This is a fork of a theme
+  This is a fork of a theme. This text is entered by Sree to complete his lab.
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /elliott-ribner.github.io
 

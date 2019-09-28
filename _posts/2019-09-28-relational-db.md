@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Relational Databases"
+description: A description of relation databases.
+date:   2019-09-28 21:03:36 +0530
+categories: Databases
+---
+
 ## An Introduction To Relational Databases
 
 Through the ages humans have stored records on stone tablets, and then books, and now databases! A database is an efficient way to store and retrieve large amounts of data. A database is very similar to a group of spreadsheets. Imagine we have a group of spread sheets to store student data at a very small college. The spreadsheet for the student list might have three columns: `Name`, `Gender`, and `Major`. In the database we would call these `fields` instead of Column Names as we would in the spread sheet. Additionally, in the language of databases, we would call this spreadsheet a `table`. Pretty simple so far, right?
